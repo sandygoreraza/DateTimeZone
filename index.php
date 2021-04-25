@@ -1,6 +1,6 @@
 <?php
 
-include_once 'timezonemanager.php';
+include_once 'TimezoneCalculator.php';
 
 use Html\TimezoneCalculator;
 
